@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguyeud
+- 👋 Hi, I’m Uyen.
 - 👀 I’m interested in tech, flow art, electronic dance music, and 
 - 🌱 I’m currently learning Python 3.
 - 💞️ I’m looking to collaborate on ...
