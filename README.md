@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uyen.
+- 👋 Hi, I’m Uyen ("Wing").
 - 👀 I’m interested in programming, data analystics, tech, flow art, and electronic dance music,.
 - 🌱 I’m currently learning Python 3, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on ...
